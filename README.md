@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Campbell-Catherine
-- 👀 I’m interested in Coding and Running
-- 🌱 I’m currently learning Azure and Network +
+- 👀 I’m interested in Coding, Cybersecurity, Running and spending time with the fam
+- 🌱 IAC is my life
 - 💞️ I’m looking to collaborate on Azure, GCP and AWS
 - 📫 How to reach me email, teams or cell
 - ⚡ Fun fact: I live near the beach
